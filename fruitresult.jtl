@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603087564288,2011,HTTP Request,200,OK,Thread Group 1-5,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,1523,0,1149
+1603087563648,2651,HTTP Request,200,OK,Thread Group 1-1,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,2159,0,1785
+1603087563693,2606,HTTP Request,200,OK,Thread Group 1-2,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,2098,0,1741
+1603087563890,2421,HTTP Request,200,OK,Thread Group 1-3,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,1929,0,1547
+1603087564088,2278,HTTP Request,200,OK,Thread Group 1-4,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,1732,0,1345
+1603087566304,550,HTTP Request,200,OK,Thread Group 1-1,text,true,,378770,133,5,5,https://fruitbouquetscyprus.tilda.ws/,124,0,0
+1603087566312,564,HTTP Request,200,OK,Thread Group 1-3,text,true,,378770,133,4,4,https://fruitbouquetscyprus.tilda.ws/,128,0,0
+1603087566304,581,HTTP Request,200,OK,Thread Group 1-5,text,true,,378770,133,3,3,https://fruitbouquetscyprus.tilda.ws/,143,0,0
+1603087566304,719,HTTP Request,200,OK,Thread Group 1-2,text,true,,378770,133,2,2,https://fruitbouquetscyprus.tilda.ws/,247,0,0
+1603087566367,731,HTTP Request,200,OK,Thread Group 1-4,text,true,,378770,133,1,1,https://fruitbouquetscyprus.tilda.ws/,276,0,0
